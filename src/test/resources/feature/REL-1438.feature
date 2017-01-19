@@ -1,2 +1,0 @@
-@ST_1425
-Feature: REL-1438
