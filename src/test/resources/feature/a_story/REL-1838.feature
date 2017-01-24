@@ -1,4 +1,4 @@
-@ST_1437 @tagtagtag @this_is_story_tag @this-is-another-tag-very-new-and-vey-beautiful
+@ST_1458 @tagtagtag @this_is_story_tag @this-is-another-tag-very-new-and-vey-beautiful
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given there is some background
 
-@SC_1706 @first_scenario_tag
+@SC_3012 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -23,13 +23,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_1707 @second_scenario_tag
+@SC_3013 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_1708 @third_scenario_tag
+@SC_3014 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -47,7 +47,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_1709 @fourth_scenario_tag
+@SC_3015 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
