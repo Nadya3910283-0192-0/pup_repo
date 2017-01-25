@@ -1,4 +1,4 @@
-@ST_1504 @tagtagtag @this_is_story_tag @this-is-another-tag-very-new-and-vey-beautiful
+@ST_1506 @tagtagtag @this_is_story_tag @this-is-another-tag-very-new-and-vey-beautiful
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given there is some background
 
-@SC_5257 @first_scenario_tag
+@SC_5354 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -23,13 +23,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5258 @second_scenario_tag
+@SC_5355 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5259 @third_scenario_tag
+@SC_5356 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -47,7 +47,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5260 @fourth_scenario_tag
+@SC_5357 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -55,7 +55,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5261 @first_scenario_tag
+@SC_5358 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -72,13 +72,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5262 @second_scenario_tag
+@SC_5359 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5263 @third_scenario_tag
+@SC_5360 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -96,7 +96,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5264 @fourth_scenario_tag
+@SC_5361 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -104,7 +104,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5265 @first_scenario_tag
+@SC_5362 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -121,13 +121,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5266 @second_scenario_tag
+@SC_5363 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5267 @third_scenario_tag
+@SC_5364 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -145,7 +145,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5268 @fourth_scenario_tag
+@SC_5365 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -153,7 +153,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5269 @first_scenario_tag
+@SC_5366 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -170,13 +170,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5270 @second_scenario_tag
+@SC_5367 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5271 @third_scenario_tag
+@SC_5368 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -194,7 +194,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5272 @fourth_scenario_tag
+@SC_5369 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -202,7 +202,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5273 @first_scenario_tag
+@SC_5370 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -219,13 +219,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5274 @second_scenario_tag
+@SC_5371 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5275 @third_scenario_tag
+@SC_5372 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -243,7 +243,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5276 @fourth_scenario_tag
+@SC_5373 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -251,7 +251,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5277 @first_scenario_tag
+@SC_5374 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -268,13 +268,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5278 @second_scenario_tag
+@SC_5375 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5279 @third_scenario_tag
+@SC_5376 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -292,7 +292,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5280 @fourth_scenario_tag
+@SC_5377 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -300,7 +300,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5281 @first_scenario_tag
+@SC_5378 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -317,13 +317,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5282 @second_scenario_tag
+@SC_5379 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5283 @third_scenario_tag
+@SC_5380 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -341,7 +341,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5284 @fourth_scenario_tag
+@SC_5381 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -349,7 +349,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_5285 @first_scenario_tag
+@SC_5382 @first_scenario_tag
 Scenario: First scenario
 There is scenario description 
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo. 
@@ -366,13 +366,13 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 
-@SC_5286 @second_scenario_tag
+@SC_5383 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_5287 @third_scenario_tag
+@SC_5384 @third_scenario_tag
 Scenario Outline: Third scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -390,7 +390,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
-@SC_5288 @fourth_scenario_tag
+@SC_5385 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
 Then I see it synced in Relime
