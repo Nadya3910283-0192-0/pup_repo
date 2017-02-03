@@ -1,7 +1,7 @@
-@ST_1433
+@ST_51513
 Feature: 1
 
-@SC_10220 @la
+@SC_195097 @la
 Scenario: lalala 1
 lalala 1 desc
 Given lala
