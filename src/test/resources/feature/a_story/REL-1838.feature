@@ -42,6 +42,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
 @SC_6 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
@@ -85,6 +86,7 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
 @SC_10 @fourth_scenario_tag
 Scenario: Fourth scenario
@@ -130,6 +132,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
 @SC_14 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
@@ -173,6 +176,7 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
 @SC_18 @fourth_scenario_tag
 Scenario: Fourth scenario
@@ -218,6 +222,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
 @SC_22 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
@@ -261,6 +266,7 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
 @SC_26 @fourth_scenario_tag
 Scenario: Fourth scenario
@@ -306,6 +312,7 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
 @SC_30 @fourth_scenario_tag
 Scenario: Fourth scenario
 Given I created new scenario
@@ -349,6 +356,7 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
 @SC_34 @fourth_scenario_tag
 Scenario: Fourth scenario
