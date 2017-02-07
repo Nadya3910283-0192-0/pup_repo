@@ -17,6 +17,7 @@ Given I created scenario
 Then I see it in Relime
 #commentNadya
 Given a simple DocString
+And DocString
 
 @SC_4 @second_scenario_tag
 Scenario: Second scenario
