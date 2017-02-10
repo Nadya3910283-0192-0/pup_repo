@@ -18,9 +18,6 @@ Then I see it in Relime
 #commentNadya
 Given a simple DocString
 And DocString
-And test
-And test
-And test
 
 @SC_257 @second_scenario_tag
 Scenario: Second scenario
