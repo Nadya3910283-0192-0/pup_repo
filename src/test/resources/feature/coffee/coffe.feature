@@ -1,7 +1,7 @@
-@ST_10 @coffee
+@ST_49 @coffee
 Feature: coffee to go
 
-@SC_41 @coffee
+@SC_401 @coffee
 Scenario: Buy coffee
 Given there are 1 coffees left in the machine
 And I have deposited 1$

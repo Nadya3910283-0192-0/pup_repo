@@ -1,2 +1,2 @@
-@ST_8
+@ST_46
 Feature: 1

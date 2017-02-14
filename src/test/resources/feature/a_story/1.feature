@@ -1,7 +1,7 @@
-@ST_36
+@ST_42
 Feature: 1
 
-@SC_288 @la
+@SC_394 @la
 Scenario: lalal
 Given lala
 Then lala

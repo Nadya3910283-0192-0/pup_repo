@@ -1,7 +1,7 @@
-@ST_7
+@ST_43
 Feature: 2
 
-@SC_42 @2
+@SC_395 @2
 Scenario: 2
 Given I created scenario
 Then I see it in Relime
